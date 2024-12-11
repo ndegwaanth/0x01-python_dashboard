@@ -1,0 +1,18 @@
+[theme]
+
+# primary ascennt color for interactive elements
+primaryColor = '#E694FF'
+
+# Background color for the main content area
+backgroundColor = '#0083B8'
+
+# Background color used for the sidebar and the interactive widget
+secondaryBackgroundColor = '#0083B8'
+
+# color used for almost all text
+textColor = '#FFF'
+
+# font family for all the text in the app except the code bloc
+# default 'sans serif'
+font = "sans serif"
+
