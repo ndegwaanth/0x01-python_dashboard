@@ -40,7 +40,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/streamlit-customer-analysis
+   git clone https://github.com/yourusername/0x01-python_dashboard
    cd streamlit-customer-analysis
    ```
 
